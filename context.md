@@ -5,13 +5,17 @@
 ## Who + when
 - **Onset:** 2021 post-COVID
 - **Duration:** 5 years (Aug 2026)
-- **Trajectory:** severe → partial recovery → plateau
+- **Trajectory:** Sept 2021 severe (word-finding failures mid-speech — expressive cognitive impairment) → cognition fully recovered → now functional at everything. Residual = fatigue + low excitement/anhedonia only. Recovery order matches energy-triage model prediction (function first, reward last). Prognosis: favorable — narrowest gap remaining.
 
 ## Phenotype (do not skip — determines treatment logic)
 - **Dopamine-deficit + vagal/autonomic residual** subtype
 - **No PEM** (can exercise without crashes) — so stimulants + exercise SAFE
 - Anhedonia + amotivation + hypersomnia + emotional flatness + mental exhaustion
 - No overt POTS, no MCAS, no severe cognitive collapse
+- **Pattern (Aug 2026):** functional most days; intermittent heavy-lethargy days (system near exit boundary — trigger audit underway: sleep quality, post-exertion echo, alcohol, meals, stress)
+- **NEW (Aug 2026): instant brain fog after Yakult (L. casei, fermented)** → possible histamine intolerance / DAO deficiency → gut leg less healed than assumed. Testing: other histamine foods (curd, aged cheese, leftovers, wine) + blocker test (fexofenadine+famotidine 1h before Yakult). If confirmed → H1+H2 antihistamine trial moves to HIGH priority; switch to histamine-degrading probiotic strains (B. longum, L. plantarum, LGG); avoid L. casei.
+- **Dutasteride history (MPB, daily, now stopped — stop date TBD):** possible anhedonia contributor/amplifier via brain neurosteroid suppression (↓allopregnanolone, ↓DHT — post-finasteride-syndrome overlap with LC symptoms). Timeline check pending. Hormone labs (T, free T, DHT, E2, SHBG, LH + DHEA-S, pregnenolone) now high priority. Pregnenolone supplementation = only if lab-confirmed low, 10-30mg AM trial with doctor — never blind. Do NOT restart oral 5-ARI during recovery; topical/non-hormonal MPB options only.
+- **PEM status: UNCONFIRMED, not ruled out.** "No PEM" was inferred from gym tolerance. Running 2-week log: if bad days follow hard sessions by 24–48h + feel systemic (foggy/flu-ish, disproportionate) → mild PEM → train sub-threshold. If bad days track sleep/alcohol/stress → no PEM. DSQ-PEM questionnaire if ambiguous.
 
 ## Root cause model (Damaged Triad)
 Gut ↔ endothelium ↔ vagus self-sustaining loop. Gut + endothelium mostly healed. **Vagus/autonomic leg = primary residual damage.** Final recovery = direct vagal + downstream dopamine work.
@@ -46,7 +50,8 @@ Add modafinil → LDN → SGB consultation → autoantibody testing
 - Bupropion contraindications: no seizure hx, no eating disorder hx, no heavy alcohol
 
 ## Where to look for depth
-- **Mechanism:** `docs/01-triad-model.md`
+- **Full unified RCA (best single read):** `docs/04-unified-model.md`
+- **Mechanism (hardware layer):** `docs/01-triad-model.md`
 - **Any treatment:** `docs/02-treatments.md`
 - **Bupropion specifics:** `docs/03-bupropion-guide.md`
 - **My full profile:** `personal/profile.md`

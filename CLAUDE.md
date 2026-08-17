@@ -87,3 +87,4 @@ Add entries here when significant additions/corrections happen:
 
 - **2026-08-17** — Initial synthesis: Triad model, treatment tiers, bupropion protocol, sources
 - **2026-08-18** — Restructured as GitHub-ready project with docs/personal split
+- **2026-08-18** — Added docs/04-unified-model.md: "The Stuck Sickness Program" — three-layer unified RCA (hardware → telemetry → state); explains symptom package via energy-budget triage, partial drug responses via latch/hysteresis, and derives the 4-phase permanent-exit blueprint

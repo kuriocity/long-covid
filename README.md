@@ -33,9 +33,10 @@ long_covid/
 ├── LICENSE                    ← MIT
 ├── .gitignore                 ← Personal notes excluded by default
 ├── docs/                      ← Public research content
-│   ├── 01-triad-model.md      ← Root-cause hypothesis
+│   ├── 01-triad-model.md      ← Root-cause hypothesis (hardware layer)
 │   ├── 02-treatments.md       ← Treatment evidence tiers
 │   ├── 03-bupropion-guide.md  ← Bupropion practical guide
+│   ├── 04-unified-model.md    ← The Stuck Sickness Program (full unified RCA)
 │   └── sources.md             ← Curated references
 └── personal/                  ← Personal application (gitignored)
     ├── README.md              ← Personal entry point
@@ -47,10 +48,11 @@ long_covid/
 
 New readers should go:
 
-1. **[docs/01-triad-model.md](docs/01-triad-model.md)** — Start here for the mental model
-2. **[docs/02-treatments.md](docs/02-treatments.md)** — What actually works and doesn't
-3. **[docs/03-bupropion-guide.md](docs/03-bupropion-guide.md)** — Deep-dive on one high-relevance drug
-4. **[docs/sources.md](docs/sources.md)** — Primary literature
+1. **[docs/04-unified-model.md](docs/04-unified-model.md)** — The full unified RCA (start here)
+2. **[docs/01-triad-model.md](docs/01-triad-model.md)** — The hardware layer (which tissues and why)
+3. **[docs/02-treatments.md](docs/02-treatments.md)** — What actually works and doesn't
+4. **[docs/03-bupropion-guide.md](docs/03-bupropion-guide.md)** — Deep-dive on one high-relevance drug
+5. **[docs/sources.md](docs/sources.md)** — Primary literature
 
 ---
 
