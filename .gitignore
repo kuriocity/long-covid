@@ -1,0 +1,30 @@
+# Personal medical content — excluded by default to keep repo publicly shareable.
+# If you want this to be a PRIVATE repo including your personal notes,
+# comment out or delete the line below.
+personal/
+
+# OS / editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.iml
+
+# Temporary
+*.tmp
+*.bak
+*.log
+
+# Python / notebook artifacts (in case future work adds them)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Node (if any tooling gets added)
+node_modules/
