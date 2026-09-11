@@ -28,3 +28,4 @@ env/
 
 # Node (if any tooling gets added)
 node_modules/
+misc/

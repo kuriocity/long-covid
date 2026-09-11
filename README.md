@@ -37,6 +37,7 @@ long_covid/
 │   ├── 02-treatments.md       ← Treatment evidence tiers
 │   ├── 03-bupropion-guide.md  ← Bupropion practical guide
 │   ├── 04-unified-model.md    ← The Stuck Sickness Program (full unified RCA)
+│   ├── 05-mast-cell-gut-protocol.md ← Food-reactive / mast-cell phenotype: anatomy, drugs (India), tests
 │   └── sources.md             ← Curated references
 └── personal/                  ← Personal application (gitignored)
     ├── README.md              ← Personal entry point
@@ -52,6 +53,7 @@ New readers should go:
 2. **[docs/01-triad-model.md](docs/01-triad-model.md)** — The hardware layer (which tissues and why)
 3. **[docs/02-treatments.md](docs/02-treatments.md)** — What actually works and doesn't
 4. **[docs/03-bupropion-guide.md](docs/03-bupropion-guide.md)** — Deep-dive on one high-relevance drug
+5. **[docs/05-mast-cell-gut-protocol.md](docs/05-mast-cell-gut-protocol.md)** — The gut mast-cell / vagal-afferent phenotype and its protocol
 5. **[docs/sources.md](docs/sources.md)** — Primary literature
 
 ---
@@ -72,12 +74,14 @@ See [docs/01-triad-model.md](docs/01-triad-model.md) for the full model, mapped 
 | Dopamine terminal density loss in striatum documented | 2026 Nature-published imaging study |
 | Fibrinaloid microclots — 4 distinct subtypes identified | Pretorius group, PolyBio Symposium 2026 |
 | Nicotinamide Riboside modest fatigue benefit (RCT) | Lancet eClinicalMedicine 2025 |
-| Vagus nerve stimulation improves autonomic + fatigue | Italian VNS trial 2025 |
-| Long COVID viral persistence in gut 12+ months | Multiple 2025 biopsy studies |
+| ~~Vagus nerve stimulation improves autonomic + fatigue~~ **taVNS: no benefit over sham in 4 controlled trials** | COVIVA, *Neurol Ther* 2026 (n=45) + Percin 2025, Vienna 2025, Mayo nVNS |
+| Gut viral RNA/antigen persistence documented to ~22–30 months; **nothing at 4–5 years**; blood antigen does not track symptoms | Peluso 2024 *Sci Transl Med*; Hany 2024; Mateu 2026 |
 | Metformin does NOT treat existing LC | REVIVE trial 2026 |
 | Extended Paxlovid does NOT treat LC | RECOVER-VITAL 2025 |
-| Antihistamine (H1+H2) improves LC fatigue | STIMULATE-ICP, Lancet Infect Dis 2026 |
-| Stellate ganglion block — dramatic case recoveries | Multiple case series, RECOVER-TLC ongoing |
+| Antihistamine (H1+H2): **small (−1.5 FAS points), transient** fatigue benefit in unselected LC; food-reactive subgroup untested | STIMULATE-ICP, Wall 2026, *Lancet Infect Dis* (n=778, open-label) |
+| **Bifidobacterium synbiotic (SIM01) ~doubles odds of improvement** in fatigue, memory, concentration, GI symptoms | Lau 2024, *Lancet Infect Dis* (RCT, n=463) |
+| Gut mast-cell activation + persistent viral protein in ileal biopsies 15–22 months post-infection | Augustin 2026, *Mucosal Immunol* |
+| Stellate ganglion block — 56% improved in largest series (n=102), durable in ~1/3 of responders, 25% transient AEs; sham RCTs started 2026 | Chiang 2025 *Cureus*; Peddireddy 2026 SR; NCT07468604 |
 
 ---
 

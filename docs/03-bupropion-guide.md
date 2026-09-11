@@ -49,6 +49,8 @@ Post-COVID central hypersomnia case series showed favorable response to bupropio
 
 **Ask for:** Wellbutrin XL 150 mg (generic OK)
 
+> **India + cardiac update (2026-09-08).** A true once-daily XL exists in India: **Bupron XL 150 (Sun) ~₹22/tab; Buropin XL 150 (Sanity) ~₹14.** What was actually dispensed in Aug 2026 was **Zupion-SR** (Intas) — SR, twice daily, 300 mg/day total — and palpitations followed (resolved on stopping; modafinil 100 mg and heavy caffeine were stacked the same week). Label data: palpitations are **dose-related** (SR trials: 2% at 300 mg/d, 6% at 400 mg/d, 2% placebo; IR trials: tachycardia 11% vs 9%). XL and SR are bioequivalent at equal daily dose (Tmax 5 h vs 3 h, modestly flatter peak), so the meaningful change in any rechallenge is the **dose — XL 150 once daily is half of what was taken**, not the formulation alone. **No published guidance on rechallenge after palpitations exists.** Preconditions if a physician considers it: normal 12-lead ECG + 24 h Holter, no caffeine loading, no modafinil, BP/HR log, and only outside the 5-ARI attribution window. Ranked against alternatives in [02-treatments.md](02-treatments.md) ("Dopamine axis after bupropion palpitations").
+
 ---
 
 ## Dosing protocol

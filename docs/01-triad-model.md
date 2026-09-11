@@ -72,12 +72,12 @@ More gut inflammation → more LPS → more endothelial damage → more microclo
 
 | Observation | Damaged Triad explanation |
 |---|---|
-| Viral persistence in gut | Primary reservoir (ACE2 density) |
+| Viral persistence in gut | Primary reservoir (ACE2 density). *2026-09-08: documented to ~22 months for gut RNA (Peluso 2024) and ~30 months for gut antigen (Hany 2024, no symptom association); **nothing documented at 4–5 years**; blood antigenemia does not track symptoms (Mateu 2026)* |
 | Microclots everywhere | Endothelial damage → abnormal fibrin |
 | Neuroinflammation / microglia activation | LPS + microclots + spike cross leaky BBB |
 | BBB disruption | Direct cerebral endothelial damage |
 | Mitochondrial dysfunction | Microclots cause tissue hypoxia + endothelial NO deficiency |
-| Serotonin depletion | Gut can't make it (dysbiosis + tryptophan sequestration) |
+| Serotonin depletion | Gut can't make it (dysbiosis + tryptophan sequestration). ⚠️ *2026-09-08: the human plasma-serotonin finding (Wong 2023, Cell) is contested — assay critique (Anderson 2024) and non-replication in two cohorts (Su; Mathé). Mouse mechanism stands; human biomarker does not* |
 | Kynurenine shift | Inflammation shunts tryptophan → neurotoxic metabolites |
 | Dopamine terminal loss | Chronic neuroinflammation + kynurenine damages dopamine neurons |
 | HPA axis flattening | Vagal afferents to hypothalamus damaged |
@@ -85,7 +85,7 @@ More gut inflammation → more LPS → more endothelial damage → more microclo
 | Autoantibodies (GPCR, β-adrenergic) | Fibrinaloid microclots create novel epitopes → autoimmunity |
 | EBV reactivation | Immune system stuck on innate, loses adaptive control |
 | PEM (post-exertional malaise) | Exercise → O2 demand → hypoxic tissues fail → immune cascade |
-| MCAS / histamine intolerance | Endothelial damage → mast cell dysregulation |
+| MCAS / histamine intolerance | Endothelial damage → mast cell dysregulation. *2026-09-08: ileal biopsies 15–22 months post-infection show mast-cell activation alongside persistent viral protein and raised serum tryptase (Augustin 2026, Mucosal Immunol) — the gut and mast-cell legs are one circuit. Protocol: [05-mast-cell-gut-protocol.md](05-mast-cell-gut-protocol.md)* |
 | Small fiber neuropathy | Vagal + peripheral nerve microvascular ischemia |
 | Female predominance | Baseline different vagal tone, HPA response, autoimmune tendency, microbiome |
 | Anhedonia / no drive | Kynurenine → dopamine loss + vagal → HPA blunting |
